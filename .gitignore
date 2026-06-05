@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.log
+*.mp3
+*.pdf
+.env
+nohup.out
+DigitalIsai_data/
